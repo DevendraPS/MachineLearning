@@ -1,3 +1,4 @@
 # MachineLearning
 Linear Regression With out SKLEARN Library for boston housing data.
-All the steps are manual and self developed.
+Logistic Regression With out SKLEARN Library for IRIS data.
+Model with keras for credit card fraud detection.
